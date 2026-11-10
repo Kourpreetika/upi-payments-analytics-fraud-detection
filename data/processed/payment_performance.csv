@@ -1,0 +1,11 @@
+transaction_type,total_transactions,successful_transactions,failed_transactions
+ATM_Withdrawal,55106,50748,2135
+Auto_Debit,27418,25202,1082
+Cheque,21711,19988,853
+Credit_Card,16426,15132,665
+IMPS,77038,70867,3072
+NEFT,66615,61347,2621
+Net_Banking,38458,35407,1567
+POS,60278,55412,2427
+RTGS,32964,30313,1387
+UPI,153986,141831,6096

@@ -1,0 +1,10 @@
+Metric,Value
+Total Transactions,153986.0
+Successful Transactions,141831.0
+Failed Transactions,6096.0
+Reversed Transactions,3054.0
+Pending Transactions,3005.0
+Success Rate,92.11
+Failure Rate,3.96
+Reversal Rate,1.98
+Pending Rate,1.95

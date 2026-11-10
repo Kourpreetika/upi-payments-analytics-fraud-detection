@@ -1,0 +1,43 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary database and backup files
+*.dump
+*.bak
+*.sqlite
+*.db
+
+# Raw transaction data - do not upload private or restricted datasets
+data/raw/
+
+# Large cleaned transaction-level datasets
+data/processed/*transactions*.csv

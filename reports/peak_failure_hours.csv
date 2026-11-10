@@ -1,0 +1,6 @@
+transaction_hour,total_transactions,successful_transactions,failed_transactions,reversed_transactions,pending_transactions,failure_rate,success_rate
+21,22847,20981,977,458,431,4.28,91.83
+7,22982,21076,965,476,465,4.2,91.71
+19,22830,21000,945,443,442,4.14,91.98
+13,22700,20889,939,424,448,4.14,92.02
+8,23242,21369,959,475,439,4.13,91.94
